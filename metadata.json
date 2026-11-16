@@ -1,0 +1,6 @@
+{
+  "name": "MOHANA AI",
+  "description": "Inteligencia Creativa: estudio de producción automática para historias, entrevistas, voces WAV, video Full HD/4K, libros y documentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

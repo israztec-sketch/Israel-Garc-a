@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MOHANA AI</string>
+    <string name="app_tagline">Inteligencia Creativa</string>
+    <string name="nav_studio">Estudio</string>
+    <string name="nav_creations">Mis Creaciones</string>
+    <string name="nav_engines">Motores y APK</string>
+    <string name="step_1_title">1. Idea y Formato</string>
+    <string name="step_2_title">2. Producción</string>
+    <string name="step_3_title">3. Producto Final</string>
+    <string name="hero_banner_desc">Cabina creativa de MOHANA AI con micrófono e iluminación cálida</string>
+    <string name="btn_start_production">Iniciar Producción Completa</string>
+    <string name="btn_resume_production">Reanudar Producción</string>
+    <string name="btn_pause_production">Pausar</string>
+    <string name="btn_share_apk">Compartir APK con Familiares</string>
+    <string name="btn_free_production_space">Liberar Espacio de Producción</string>
+    <string name="custom_video_section_title">Vídeo propio de fondo (opcional)</string>
+    <string name="btn_pick_custom_video">Elegir vídeo propio</string>
+    <string name="btn_clear_custom_video">Quitar vídeo</string>
+</resources>
